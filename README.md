@@ -6,7 +6,7 @@
 
 ## *Results:*
 
-#### Using Tableau, we create nine visualizations. We used the data from NYC's Citibikes program. We decided to focus on one month. Since summer is usually the most active time for being outdoors and traveling, August is a good month to draw information. The visuals and their results can be found [here](https://public.tableau.com/views/NYCCitibike-NYCCitibikeChallengeStory/NYCCitibikeDataStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "Link to visuals").
+#### Using Tableau, we create nine visualizations. We used the data from NYC's Citibikes program. We decided to focus on one month. Since summer is usually the most active time for being outdoors and traveling, August is a good month to draw information. The visuals and their results can be found [here](https://public.tableau.com/shared/G6MYQXKCZ?:display_count=n&:origin=viz_share_link "Link to visuals").
 
 ## *Summary:*
 
